@@ -1,2 +1,3 @@
-# router
-A just-for-fun simple router for statica pages
+# Router
+
+A just-for-fun simple router for static pages
