@@ -69,8 +69,8 @@ class Router
             }
         }
 
-        echo '<pre>'.print_r($candidate, 1).'</pre>';
-        exit;
+        // echo '<pre>'.print_r($candidate, 1).'</pre>';
+        // exit;
 
         if($mine){
             $mine->get_page();
